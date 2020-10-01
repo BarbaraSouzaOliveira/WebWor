@@ -1,0 +1,32 @@
+#cardList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#MenuItem {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+
+}
+
+#Menu {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    box-shadow: 7px 9px 39px -6px rgba(0,0,0,0.87);
+    width: 69%;
+    height: 100%;
+    background-color: rgba(0, 139, 139, 0.692);
+    color: aliceblue;
+    border-radius: 15px;
+}
+
+#category{
+    display: flex;
+    align-content: space-around;
+
+}

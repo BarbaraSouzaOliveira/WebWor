@@ -1,0 +1,94 @@
+#bodyData {
+  display: flex;
+  width: 600px;
+  height: 400px;
+  margin: 5%;
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(236, 236, 236);
+  padding: 8px;
+  background-color: white;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+}
+#bodyLayout {
+  display: flex;
+  width: 600px;
+  height: 100%;
+  margin: 5%;
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(236, 236, 236);
+  padding: 8px;
+  background-color: white;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#bodyTime {
+  display: flex;
+  width: 600px;
+  height: 800px;
+  margin: 5%;
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(236, 236, 236);
+  padding: 8px;
+  background-color: white;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+}
+#bodyDelivery {
+  display: flex;
+  width: 500px;
+  height: 500px;
+  margin: 5%;
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(236, 236, 236);
+  padding: 8px;
+  background-color: white;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+#horario{
+  display: flex;
+
+
+}
+#frete{
+  display: flex;
+
+
+}
+
+.btn-cta{
+  color: #fff;
+    background-color: #1890ff;
+    border-color: #1890ff;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+    -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+}
+
+.location-search-input{
+  width: 460px;
+  margin-top: 5%;
+}
+  
+
+#nav-main{
+  display: flex;
+  width: 100%;
+}
+

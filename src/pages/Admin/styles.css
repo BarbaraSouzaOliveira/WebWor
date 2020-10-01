@@ -1,0 +1,13 @@
+#bodyAdm {
+  margin: 3%;
+  background-color: rgb(236, 236, 236);
+  padding: 0.5rem;
+  background-color: white;
+  border-radius: 10px;
+  justify-content: space-between;
+}
+#Edit{
+  
+  display: flex;
+  justify-content: space-around;
+}

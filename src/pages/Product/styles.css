@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(236, 236, 236);
+}
+
+#title {
+  color: rgba(24, 24, 24, 0.911);
+  font-size: 33px;
+}
+
+#createBody {
+  margin: 1% 10%;
+  padding: 3% 10% 1% 10%;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.ant-collapse-content-box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: darkcyan;
+}
+
+.card {
+  width: 49.5%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+#card-div-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+#avatar {
+  margin: 1% 10% 4% 4%;
+}
+
+#card-value {
+  margin-right: 10%;
+}
+
+#card-desc {
+  text-align: justify;
+}

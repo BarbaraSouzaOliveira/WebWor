@@ -1,0 +1,22 @@
+
+.painel-login {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form {
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+}
+
+.avatar {
+  text-align: center;
+}
+
+.form-buttom button{
+  width: 100%;
+}
